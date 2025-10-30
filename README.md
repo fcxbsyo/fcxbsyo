@@ -20,14 +20,6 @@ Hi, I'm Nisara Ploysuttipol
 
 ---
 
-### 🎵 What I'm Listening To
-
-![Now Playing](https://apple-music-readme.vercel.app/api?theme=light&uid=xhakunnen)
-
-> 🎧 If no song is playing, this shows the most recently played track.
-
----
-
 ### 📊 GitHub Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fcxbsyo&show_icons=true&theme=default)
 
