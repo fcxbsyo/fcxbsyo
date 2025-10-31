@@ -1,7 +1,7 @@
 Hi, I'm Nisara Ploysuttipol
 
 🎓 A 2nd-year Computer Engineering student at **Kasetsart University**  
-💻 Passionate about **DevOps**, **Full-Stack Web Development**, and **Software Quality**  
+💻 Passionate about **Full-Stack Web Development**, **Software Quality**, and **Data Engineering** 
 
 ---
 
