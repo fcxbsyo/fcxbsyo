@@ -1,22 +1,21 @@
 Hi, I'm Nisara Ploysuttipol
 
 🎓 A 2nd-year Computer Engineering student at **Kasetsart University**  
-💻 Passionate about **Full-Stack Web Development**, **Software Quality**, and **Data Engineering** 
+💻 Passionate about **Full-Stack Web Development**, **Bussiness Analytics**, and **Data Engineering** 
 
 ---
 
-### 🧠 About Me
-- 🌱 Learning: **Django-Ninja**, **Next.js**, **Docker Compose**, and **CI/CD pipelines**
-- 🧩 Interested in **software testing**, **automation**, and **clean architecture**
-- ☕ Favorite Book: *“The Subtle Art Of Not Giving a F-ck”*
+### About Me
+- Learning: **Django-Ninja**, **Next.js**, **GO**, **Switch**
+- Hobby: sleeping
 
 ---
 
 ### ⚙️ Tech Stack
 **Languages:** Python | TypeScript | C++ | SQL  
-**Frameworks:** Django | Next.js | React | TailwindCSS  
+**Frameworks:** Django | Next.js | TailwindCSS  
 **DevOps Tools:** Docker | GitHub Actions | Jenkins | Render | PostgreSQL  
-**Testing:** Pytest | React Testing Library  
+**Testing:** Pytest 
 
 ---
 
@@ -26,7 +25,7 @@ Hi, I'm Nisara Ploysuttipol
 ---
 
 ### 📫 Connect with Me
-📧 Email: nisaraploysuttipol@gmail.com  
+📧 Email: nisara.ploys@gmail.com  
 🐙 GitHub: [github.com/fcxbsyo](https://github.com/fcxbsyo)
 
 ---
