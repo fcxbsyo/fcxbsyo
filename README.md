@@ -1,7 +1,7 @@
 Hi, I'm Nisara Ploysuttipol
 
-🎓 A 2nd-year Computer Engineering student at **Kasetsart University**  
-💻 Passionate about **Full-Stack Web Development**, **Bussiness Analytics**, and **Data Engineering** 
+- A 2nd-year Computer Engineering student at **Kasetsart University**  
+- Passionate about **Full-Stack Web Development**, **Bussiness Analytics**, and **Data Engineering** 
 
 ---
 
@@ -11,7 +11,7 @@ Hi, I'm Nisara Ploysuttipol
 
 ---
 
-### ⚙️ Tech Stack
+### Tech Stack
 **Languages:** Python | TypeScript | C++ | SQL  
 **Frameworks:** Django | Next.js | TailwindCSS  
 **DevOps Tools:** Docker | GitHub Actions | Jenkins | Render | PostgreSQL  
@@ -19,15 +19,15 @@ Hi, I'm Nisara Ploysuttipol
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fcxbsyo&show_icons=true&theme=default)
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 📧 Email: nisara.ploys@gmail.com  
 🐙 GitHub: [github.com/fcxbsyo](https://github.com/fcxbsyo)
 
 ---
 
-⭐️ *Thanks for visiting my profile! Feel free to explore my projects and drop a star if you like them.*
+*Thanks for visiting my profile! Feel free to explore my projects and drop a star if you like them.*
