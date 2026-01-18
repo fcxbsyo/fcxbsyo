@@ -14,7 +14,7 @@ Hi, I'm Nisara Ploysuttipol
 ### Tech Stack
 **Languages:** Python | TypeScript | C++ | SQL  
 **Frameworks:** Django | Next.js | TailwindCSS  
-**DevOps Tools:** Docker | GitHub Actions | Jenkins | Render | PostgreSQL  
+**DevOps Tools:** Docker | GitHub Actions | PostgreSQL  
 **Testing:** Pytest 
 
 ---
