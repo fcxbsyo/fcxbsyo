@@ -1,6 +1,6 @@
 Hi, I'm Nisara Ploysuttipol
 
-- A 2nd-year Computer Engineering student at **Kasetsart University**  
+- A 2nd-year Software and Knowledge Engineering student at **Kasetsart University**  
 - Passionate about **Full-Stack Web Development**, **Bussiness Analytics**, and **Data Engineering** 
 
 ---
