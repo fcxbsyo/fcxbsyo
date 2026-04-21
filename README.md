@@ -37,6 +37,6 @@
 
 <p align="center">
   <a href="mailto:nisara.ploys@gmail.com">email</a> ·
-  <a href="https://linkedin.com/in/nisara-ploysuttipol">linkedin</a> ·
+  <a href="https://www.linkedin.com/in/nisara-ploysuttipol-9baa183a4/">linkedin</a> ·
   <a href="https://github.com/fcxbsyo">github</a>
 </p>
