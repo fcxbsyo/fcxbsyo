@@ -1,4 +1,4 @@
-## about me
+### about me
 
 - Studying @ Kasetsart University (SKE, Expected 2028)
 - Backend-focused — APIs, databases, auth, CI/CD
@@ -8,7 +8,7 @@
 
 ---
 
-## tech stack
+### tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -30,16 +30,16 @@
 
 ---
 
-## currently learning
+### currently learning
 
 - Deepening backend architecture knowledge
-- Exploring systems programming and data engineering
+- Exploring new programming language
 - Diving into ML, finance tech, and DevSecOps
 - Getting better at frontend design (not just fixing gaps 😅)
 
 ---
 
-## github stats
+### github stats
 
 ![Nisara's GitHub stats](https://github-readme-stats.vercel.app/api?username=fcxbsyo&show_icons=true&theme=transparent&hide_border=true&title_color=888&text_color=888&icon_color=888)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcxbsyo&layout=compact&theme=transparent&hide_border=true&title_color=888&text_color=888)
