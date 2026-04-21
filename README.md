@@ -31,7 +31,7 @@
 
 ## outside of code
 
-vibing to music · gaming · sleeping (a skill) · manga · movies
+🎵 vibing to music · 🎮 gaming · 😴 sleeping (a skill) · 📖 manga · 🎬 movies
 
 ---
 
