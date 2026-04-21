@@ -9,7 +9,7 @@
 ---
 
 ### tech stack
-[![My Skills](https://skillicons.dev/icons?i=python,ts,js,c,cpp,html,css,django,nodejs,react,nextjs,postgres,docker,git,figma&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,ts,js,c,cpp,html,css,django,nodejs,react,nextjs,postgres,docker,git,figma)](https://skillicons.dev)
 
 ---
 
